@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smokers Website</title>
+</head>
+<body>
+  <h1>Welcome to the Smokers Website!</h1>
+  <p>Here you can find resources and support to help you quit smoking.</p>
+  <button onclick="alert('You can call 1-800-QUIT-NOW for free support and resources to help you quit smoking.')">Get Help Now</button>
+</body>
+</html>
